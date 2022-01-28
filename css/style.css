@@ -1,0 +1,55 @@
+* {
+	color: black;
+}
+
+p {
+	color: dimgray;
+}
+
+h1 {
+	color: red;
+}
+
+h3 {
+	color: brown;
+}
+
+span {
+	color: green;
+}
+
+[href*='#anchor-'] {
+	color: blue;
+}
+
+[href*='#sub-'] {
+	color: cadetblue;
+}
+
+.ext-link {
+	color: cornflowerblue
+}
+
+.chemistry {
+	color: lime;
+}
+
+h2+h3 {
+	color: darkolivegreen;
+}
+
+#anchor-7 {
+	color: blueviolet;
+}
+
+ul.list li {
+	color: darkorange;
+}
+
+ol.list li {
+	color: chocolate;
+}
+
+div>ul li {
+	color: cyan;
+}
